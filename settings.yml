@@ -1,0 +1,6 @@
+scrollaway_desktop:
+  default: true
+  description: "Hide the header when scrolling on desktop"
+scrollaway_mobile:
+  default: true
+  description: "Hide the header when scrolling on mobile"
