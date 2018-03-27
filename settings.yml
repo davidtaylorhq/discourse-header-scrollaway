@@ -1,5 +1,5 @@
 scrollaway_desktop:
-  default: true
+  default: false
   description: "Hide the header when scrolling on desktop"
 scrollaway_mobile:
   default: true
